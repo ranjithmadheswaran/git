@@ -83,4 +83,7 @@ result("sakthi",85,93,88,78,87)
 // operators day3
 
 
+console.log("Don't enter beyond this line!!");
+
+
 
