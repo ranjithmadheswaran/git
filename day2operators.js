@@ -80,6 +80,8 @@ let result=function(name,tamil,english,maths,science,social){
 }
 result("sakthi",85,93,88,78,87)
 
+console.log("Added a new line!!");
+
 // operators day3
 
 
